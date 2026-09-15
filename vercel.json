@@ -1,0 +1,3 @@
+{
+  "buildCommand": "echo \"Skipping frontend build on Vercel because this is a Chrome Extension\""
+}
